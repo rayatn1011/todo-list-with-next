@@ -1,1 +1,4 @@
-{}
+{
+  "singleQuote": true,
+  "plugins": ["prettier-plugin-jsdoc", "prettier-plugin-tailwindcss"]
+}
